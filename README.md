@@ -1,0 +1,2 @@
+# Hey!
+You can read our (Order) Terms of Service in [TOS.md](TOS.md), our Privacy Policy can be found in [PRIVACY.md](PRIVACY.md), and finally, the open source license can be found in [LICENSE.md](LICENSE.md)
