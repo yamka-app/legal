@@ -6,8 +6,8 @@ This document describes the legal relationship an end user ("you", "the user", "
 ## Updates to this document
 Order reserves the right to update this Policy, which we may do for reasons that include, but are not limited to, complying with changes to the law or reflecting enhancements to our Platform. If the changes affect your usage of Order and/or your legal rights, we’ll notify you no less than seven days before the changes take effect. Unless stated otherwise, your continued use of the Service after said modifications take effect will constitute your acceptance of and agreement to those changes. If you object to the changes, your recourse shall be to cease using the Service.
 
-These Terms were last updated on: **Nov. 25th 2020**\
-Changes will take effect on: **Nov. 26th 2020**
+These Terms were last updated on: **Dec. 28th 2020**\
+Changes will take effect on: **Dec. 28th 2020**
 
 ## Information you provide to us
 #### Profile and account information
@@ -19,4 +19,4 @@ We store messages and associated data in order to provide the service. Some mess
 We may share some information with third parties. For example, we may send you E-Mail, that passes through a number of 3rd parties, and thus is subject to their Privacy Policies. They are legally and/or contractually obligated to keep such data safe. We share as little data as possible, only for essential purposes.
 
 ## Requesting your information
-Please contact the head mainter using E-Mail (`portasynthinca3 (at) gmail.com` at the time) to request a data package and wait for no more than 30 days.
+Please contact us via E-Mail (`support (at) ordermsg.tk`) to request a data package and wait for no more than 30 days.
