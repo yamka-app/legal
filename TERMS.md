@@ -15,9 +15,9 @@ Changes will take effect on: **May 30th 2021**
 ## Your responsibilities
 #### Account usage
 You agree that any action done on behalf of your Platform account is permitted by you, and that you take responsibility for any such action.
+
 #### Age
 Yamka stores data that could be used to identify an individual, such as their E-Mail address and a unique number associated with each user account. As such, you must have reached the age of digital consent in your area to create an account.
-
 
 #### E-Mail usage
 We may send short non-frequent E-Mail messages to the address associated with your Platform account for the following purposes:
